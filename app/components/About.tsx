@@ -30,7 +30,7 @@ export default function About() {
             transition={{ duration: 0.4 }}
             className={`text-gray-800 leading-relaxed text-md md:text-lg transition-all duration-500 ${expanded ? "max-h-full" : "max-h-36 overflow-hidden"}`}
           >
-            I am a dedicated Computer Science graduate from Kenyatta University with a strong passion for building 
+            I am a dedicated Computer Scientist with a strong passion for building 
             scalable, user-focused digital solutions. My technical expertise spans software engineering, data 
             science, and cloud-based application development—allowing me to turn real-world problems into practical, 
             high-impact systems.
